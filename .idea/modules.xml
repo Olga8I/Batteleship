@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Batteleship.iml" filepath="$PROJECT_DIR$/.idea/Batteleship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship_2/Ship_2.iml" filepath="$PROJECT_DIR$/Ship_2/Ship_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship_2_1/Ship_2_1.iml" filepath="$PROJECT_DIR$/Ship_2_1/Ship_2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship_3_1/Ship_3_1.iml" filepath="$PROJECT_DIR$/Ship_3_1/Ship_3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship_4_1/Ship_4_1.iml" filepath="$PROJECT_DIR$/Ship_4_1/Ship_4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship_1/untitled/untitled.iml" filepath="$PROJECT_DIR$/Ship_1/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship_1/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/Ship_1/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
